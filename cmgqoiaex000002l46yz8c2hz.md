@@ -1812,3 +1812,5 @@ public class SampleTsetUsingMethodChaning2 {
 ```
 
 Here we not using the class name as reference ,this is the magic of **static** import.
+
+ok
