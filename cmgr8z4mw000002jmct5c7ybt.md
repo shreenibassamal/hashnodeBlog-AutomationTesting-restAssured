@@ -1,8 +1,8 @@
 ---
-title: "Serialization and Deserialization in Java"
+title: "04 Serialization and Deserialization in Java"
 datePublished: Wed Oct 15 2025 00:23:10 GMT+0000 (Coordinated Universal Time)
 cuid: cmgr8z4mw000002jmct5c7ybt
-slug: serialization-and-deserialization-in-java
+slug: 04-serialization-and-deserialization-in-java
 tags: shreenibas
 
 ---
